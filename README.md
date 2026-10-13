@@ -57,8 +57,11 @@ Create a crosstab report to compare sales across different regions and product c
 Create a dashboard using a separate customer dataset. The dashboard combines visualizations and customer-related information to make data easier to understand and support customer insights.
 
 ## Datasets Used
-* **Sales Dataset:** Used for Practicals 1, 2, 3, and 4.
-* **Customer Dataset:** Used separately for Practical 6 to create the Customer Insights Dashboard.
+* **Sales Dataset:** archive(1).zip
+* Used for Practicals 1, 2, 3, and 4.
+  
+* **Customer Dataset:** RetailPulse_Customer_Dataset.csv
+* Used separately for Practical 6 to create the Customer Insights Dashboard.
 
 ## Tools Used
 * IBM Cognos Analytics
