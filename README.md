@@ -26,6 +26,10 @@ This project focuses on analyzing an Amazon India sales dataset to understand sa
 - Most common order status: Shipped
 - Highest-demand size: 3XL
 
+## Dataset Used
+amazondataset.csv
+
+
 ## Conclusion
 This project demonstrates how descriptive analytics helps identify sales patterns, understand customer demand, and support data-driven business decisions. It also explores how the analysis could be extended to predictive analytics in the future.
 
